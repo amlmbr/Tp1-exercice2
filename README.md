@@ -1,5 +1,6 @@
-# Tp1-exercice2
- exercice 2
+# Tp1-exercice2 :   
+
+ exercice 2 :   Calcul de taxe
 
  Enoncer :
  
@@ -7,6 +8,27 @@ On souhaite créer une application mobile permettant de calculer le prix des imp
 Les formules de calculs sont les suivantes:
 	Impot de base = surface *2
 	Impot suplémentaire = nombre de pieces * 50 + (100 si il y a une piscine).
+
+
+Description
+
+Cet exercice calcule la taxe locale sur un montant donné.
+
+Fonctionnalités:
+
+•	Saisie d'un montant.
+•	Calcul de la taxe affichée.
+
+Instructions:
+
+1.	Entrez un montant dans le champ prévu.
+2.	Appuyez sur le bouton pour calculer la taxe.
+   
+Technologies utilisées:
+
+•	Android Studio
+•	Java
+
 
 
 Video:
